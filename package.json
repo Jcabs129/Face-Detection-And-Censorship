@@ -1,0 +1,18 @@
+{
+  "name": "mod-10-face-detection-and-censorship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pixalated-face.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel face.html"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
