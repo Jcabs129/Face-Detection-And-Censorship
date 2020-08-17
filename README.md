@@ -5,7 +5,7 @@
 <h3>Structure</h3>
 * Write a funciton that will populate a users video<br />
 * Size the canvas to be the same size as the video<br />
-<br />
+* Ask the browser when the next animation frame is, and tell it to run detect for us<br />
 * destructuring the properties {width, height, top, left} within the method '.boundingBox'<br />
 
 
