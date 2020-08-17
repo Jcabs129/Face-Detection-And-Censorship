@@ -11,9 +11,9 @@
 
 <h3>Setup</h3>
 Must use a platform that supports face detection, Chrome browser is what i have used in this project. <br />
-1. chrome://flags<br />
-2. Experimental Web Platform Web features - enabled<br />
-3. Restart browser<br />
+  1. chrome://flags<br />
+  2. Experimental Web Platform Web features - enabled<br />
+  3. Restart browser<br />
 
   1. git clone project (https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository)<br />
   2. cd into the directory<br />
