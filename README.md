@@ -10,10 +10,10 @@
 
 
 <h3>Setup</h3>
-Must use a platform that supports face detection, Chrome browser is what i have used in this project. 
-1. chrome://flags
-2. Experimental Web Platform Web features - enabled
-3. Restart browser
+Must use a platform that supports face detection, Chrome browser is what i have used in this project. <br />
+1. chrome://flags<br />
+2. Experimental Web Platform Web features - enabled<br />
+3. Restart browser<br />
 
   1. git clone project (https://docs.github.com/en/enterprise/2.13/user/articles/cloning-a-repository)<br />
   2. cd into the directory<br />
@@ -23,7 +23,7 @@ Must use a platform that supports face detection, Chrome browser is what i have 
 
 
 <h3>useful info</h3>
-https://parceljs.org/getting_started.html
-https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia
-https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect
+https://parceljs.org/getting_started.html<br />
+https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia<br />
+https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect<br />
 
