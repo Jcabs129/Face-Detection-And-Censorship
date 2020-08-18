@@ -29,4 +29,6 @@ Must use a platform that supports face detection, Chrome browser is what i have 
 https://parceljs.org/getting_started.html<br />
 https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia<br />
 https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect<br />
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext<br />
+https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame<br />
 
