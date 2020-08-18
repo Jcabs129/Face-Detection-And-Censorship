@@ -3,10 +3,10 @@
 
 
 <h3>Structure</h3>
-- Write a funciton that will populate a users video<br />
-- Size the canvas to be the same size as the video<br />
-- Ask the browser when the next animation frame is, and tell it to run detect for us<br />
-- destructuring the properties {width, height, top, left} within the method '.boundingBox'<br />
+- [x] Write a funciton that will populate a users video<br />
+- [x] Size the canvas to be the same size as the video<br />
+- [x] Ask the browser when the next animation frame is, and tell it to run detect for us<br />
+- [x] destructuring the properties {width, height, top, left} within the method '.boundingBox'<br />
 
 
 <h3>Setup</h3>
