@@ -13,7 +13,7 @@
 
 ### Setup
 Must use a platform that supports face detection, Chrome browser is what i have used in this project. <br />
-
+you will have to enable camera access on chrome; <br />
   1. chrome://flags<br />
   2. Experimental Web Platform Web features - enabled<br />
   3. Restart browser<br />
