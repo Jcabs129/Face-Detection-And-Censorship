@@ -1,6 +1,6 @@
 # Face-Detection-And-Censorship
 ### Introduction<br />
-<img width="637" alt="censorship2" src="https://user-images.githubusercontent.com/26147681/90512700-72579180-e156-11ea-883e-578d3e1c32b8.png">
+<img width="600" alt="censorship2" src="https://user-images.githubusercontent.com/26147681/90512700-72579180-e156-11ea-883e-578d3e1c32b8.png">
 
 
 
